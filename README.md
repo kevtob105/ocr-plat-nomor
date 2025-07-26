@@ -1,1 +1,0 @@
-# ocr-plat-nomor
